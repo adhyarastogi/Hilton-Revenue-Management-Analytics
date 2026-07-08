@@ -16,7 +16,7 @@ This project answers the business question:
 
 ## 📂 Dataset
 
-**Dataset:** Synthetic Hotel Revenue Management Dataset
+**Dataset:** Synthetic dataset generated using Python to simulate realistic Hilton Hawaiian Village booking operations across 5 relational tables and 50,000+ records
 
 ### Dataset Summary
 
